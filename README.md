@@ -1,4 +1,4 @@
-# Simple Side Scroller 🎮
+# Simple Side Scroller 🎮 [![Netlify Status](https://api.netlify.com/api/v1/badges/162deb84-9165-4fe5-b11d-c3c0955518a0/deploy-status)](https://app.netlify.com/sites/simple-sidescrolling-game/deploys)
 
 Welcome to **simple_side_scroller**, a project to track my progress in web-based game development. This game was built to practice and showcase foundational skills, inspired by my **game_dev** repository.
 
