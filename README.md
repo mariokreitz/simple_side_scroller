@@ -39,3 +39,7 @@ The game is optimized for mobile with simplified controls—jumping only, no lef
 ## 🚀 Goal
 
 This project documents my journey in creating a 2D side-scroller, focusing on player interactions, game asset management, and debugging features for an enriched development experience.
+
+## 📌 Notes
+
+This game builds on concepts from my [**game_dev**](https://github.com/mariokreitz/game_dev) repository, where I explore essential game development techniques. "simple_side_scroller" brings these elements together, focusing on Canvas animation, collision detection, and dynamic effects, and lets me track how these skills evolve with each project. It’s both a practice ground and a showcase of my progress in game development.
